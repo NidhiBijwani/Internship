@@ -14,3 +14,4 @@ A simple, responsive landing page built with **HTML5** and **CSS3** as part of W
 - **Chrome DevTools** (Debugging)
 
 ## 📂 Project Structure
+![image](https://github.com/user-attachments/assets/3b033b92-00bb-486b-b5ef-4e64d39855c0)
